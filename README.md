@@ -48,11 +48,13 @@ Through academic projects, I'm developing my skills in programming, statistical 
 
 ## 📂 Projects & Explorations
 
-### 📊 Labour Market Analysis
 
-Exploring data through statistical methods, quantitative analysis, and interpretation of results.
+### 📊 Union Wage Premium Analysis
 
-`Stata` · `Statistical Analysis`
+Econometric analysis of the relationship between trade union membership and women's wages in the United States, using OLS regression models and socioeconomic controls.
+
+`Stata` · `Econometrics` · `Regression Analysis`
+
 
 ### 🏨 Hotel Performance Analysis
 
