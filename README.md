@@ -2,7 +2,7 @@
 
 # Hi, I'm Arianna! 👋
 
-### MSc Economics & Management Student
+### MSc Student in Economics & Management
 
 **Data Analysis · Business Analytics · Data-Driven Decision Making**
 
