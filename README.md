@@ -24,21 +24,23 @@ Through academic projects, I'm developing my skills in programming, statistical 
 
 
 
+
 ## 💻 My Analytical Toolkit
 
 ### Programming & Statistics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge" height="45" alt="Stata" />
+  <img src="assets/python.png" width="48" />
+  <img src="assets/stata.png" width="48" />
 </p>
 
 ### Data Analysis & Workspace
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="45" alt="Excel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter Notebook" />
+  <img src="assets/excel.png" width="48" />
+  <img src="assets/jupyter.png" width="48" />
 </p>
+
 
 
 
